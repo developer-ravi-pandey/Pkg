@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница с реестром New Realty" />
+			<Item Name="LocalizableStrings.Button_hebvlvt_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.MenuItem_8m672s8_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.MenuItem_sy8z6b6_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Обновить" />
+		</Items>
+	</Group>
+</Resources>

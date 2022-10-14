@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/UsrApp_cspd6i2/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/UsrApp_cspd6i2/Data/**" />
+		<Compile Remove="$(PkgPath)/UsrApp_cspd6i2/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/UsrApp_cspd6i2/Schemas\**" />
+		<Compile Remove="$(PkgPath)/UsrApp_cspd6i2/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrApp_cspd6i2/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrApp_cspd6i2/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrApp_cspd6i2/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrApp_cspd6i2/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrApp_cspd6i2/Resources/**" />
+		<None Remove="$(PkgPath)/UsrApp_cspd6i2/Assemblies/**" />
+		<None Remove="$(PkgPath)/UsrApp_cspd6i2/Data/**" />
+		<None Remove="$(PkgPath)/UsrApp_cspd6i2/SqlScripts/**" />
+		<None Remove="$(PkgPath)/UsrApp_cspd6i2/Schemas/**" />
+		<None Remove="$(PkgPath)/UsrApp_cspd6i2/Resources/**" />
+  </ItemGroup>
+</Project>

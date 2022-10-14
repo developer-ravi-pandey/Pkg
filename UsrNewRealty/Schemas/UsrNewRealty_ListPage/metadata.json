@@ -1,0 +1,36 @@
+= MetaData.Schema.UId "234ee6a7-5f8d-4557-9e60-860b120328b6"
+= MetaData.Schema.A2 "UsrNewRealty_ListPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
++ MetaData.Schema.B2 {
+  "UId": "9b477847-6327-3cd8-1638-324f62e3d420",
+  "A2": "RefreshButtonCaption",
+  "A3": "234ee6a7-5f8d-4557-9e60-860b120328b6",
+  "A4": "234ee6a7-5f8d-4557-9e60-860b120328b6",
+  "A5": "1a2d0ecf-6ed9-462c-b8cf-7297687fb7dc"
+}
++ MetaData.Schema.B2 {
+  "UId": "8a45b9c7-88fd-3249-2fe5-0a8f3c010a83",
+  "A2": "MenuItem_sy8z6b6_caption",
+  "A3": "234ee6a7-5f8d-4557-9e60-860b120328b6",
+  "A4": "234ee6a7-5f8d-4557-9e60-860b120328b6",
+  "A5": "4a4dc047-777c-4f5c-a6ac-a01e149db672"
+}
++ MetaData.Schema.B2 {
+  "UId": "4ead99a9-a1b9-932b-b88f-b33fe7b55205",
+  "A2": "MenuItem_8m672s8_caption",
+  "A3": "234ee6a7-5f8d-4557-9e60-860b120328b6",
+  "A4": "234ee6a7-5f8d-4557-9e60-860b120328b6",
+  "A5": "4a4dc047-777c-4f5c-a6ac-a01e149db672"
+}
++ MetaData.Schema.B2 {
+  "UId": "2c1bdb1a-cbe4-28d3-6ea2-9243675bef87",
+  "A2": "Button_hebvlvt_caption",
+  "A3": "234ee6a7-5f8d-4557-9e60-860b120328b6",
+  "A4": "234ee6a7-5f8d-4557-9e60-860b120328b6",
+  "A5": "4a4dc047-777c-4f5c-a6ac-a01e149db672"
+}
+~ MetaData.Schema.B2 ["9b477847-6327-3cd8-1638-324f62e3d420","8a45b9c7-88fd-3249-2fe5-0a8f3c010a83","4ead99a9-a1b9-932b-b88f-b33fe7b55205","2c1bdb1a-cbe4-28d3-6ea2-9243675bef87"]
+= MetaData.Schema.B6 "13599742-32fe-400f-ab71-78e76cd5f2c9"
+= MetaData.Schema.HD1 "a5678241-e5e0-f691-b825-84b6039d5fa2"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

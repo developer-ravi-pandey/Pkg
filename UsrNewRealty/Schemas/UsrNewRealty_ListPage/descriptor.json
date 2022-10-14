@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "234ee6a7-5f8d-4557-9e60-860b120328b6",
+    "Name": "UsrNewRealty_ListPage",
+    "ModifiedOnUtc": "\/Date(1665561227000)\/",
+    "Parent": {
+      "UId": "a5678241-e5e0-f691-b825-84b6039d5fa2",
+      "Name": "BaseGridSectionTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "New Realty list page",
+    "DependsOn": []
+  }
+}

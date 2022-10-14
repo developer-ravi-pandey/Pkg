@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c372c7b7-55d0-4751-98f3-b3a17c8dad40",
+    "Name": "UsrApp_cspd6i2",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrApp_cspd6i2.csproj",
+    "DependsOn": []
+  }
+}

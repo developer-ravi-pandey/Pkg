@@ -1,0 +1,19 @@
+{
+  "Name": "New Realty",
+  "Code": "UsrNewRealty",
+  "Description": "",
+  "Maintainer": "Customer",
+  "Icon": "PHN2ZyBpZD0iQ29tcG9uZW50XzM5Nl8zIiBkYXRhLW5hbWU9IkNvbXBvbmVudCAzOTYg4oCTIDMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjM4IiBoZWlnaHQ9IjM4IiB2aWV3Qm94PSIwIDAgMzggMzgiPgogIDxwYXRoIGlkPSJQYXRoXzY1IiBkYXRhLW5hbWU9IlBhdGggNjUiIGQ9Ik05NTItMzQ3djNoNHYxaC00djJoNHYxaC00djJoNHYxaC00djJoNHYxaC00djVoN3YtMThaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtOTI4IDM1OSkiIGZpbGw9IiNmZmYiLz4KICA8cGF0aCBpZD0iUGF0aF82NiIgZGF0YS1uYW1lPSJQYXRoIDY2IiBkPSJNOTM2LTM1MXYyMmgxNXYtMjJIOTM2bTYsMTdoLTN2LTFoM3YxbTAtNGgtM3YtMWgzdjFtMC00aC0zdi0xaDN2MW0wLTRoLTN2LTFoM3YxbTYsMTJoLTN2LTFoM3YxbTAtNGgtM3YtMWgzdjFtMC00aC0zdi0xaDN2MW0wLTRoLTN2LTFoM3YxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtOTI4IDM1OSkiIGZpbGw9IiNmZmYiLz4KICA8cmVjdCBpZD0iUmVjdGFuZ2xlXzIwIiBkYXRhLW5hbWU9IlJlY3RhbmdsZSAyMCIgd2lkdGg9IjM4IiBoZWlnaHQ9IjM4IiBmaWxsPSJub25lIi8+Cjwvc3ZnPgo=",
+  "IconName": "icon_5.svg",
+  "Color": "#00C853",
+  "MarketplaceLink": "",
+  "HelpLink": "",
+  "OrderLink": "",
+  "SupportEmail": "",
+  "Packages": [
+    {
+      "UId": "13599742-32fe-400f-ab71-78e76cd5f2c9",
+      "Name": "UsrNewRealty"
+    }
+  ]
+}
